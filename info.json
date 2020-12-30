@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "dcabd583a0e6be2c49a146932ad6ce380606def6",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2020-12-30 18:12:06",
+    "files": 12,
+    "merge": false,
+    "message": "rename makefile - pre-render vignette - rbuildgnore vignette and readme\n"
+  },
+  "remote": "https://github.com/ropensci/getlandsat",
+  "pkg": "getlandsat"
+}
